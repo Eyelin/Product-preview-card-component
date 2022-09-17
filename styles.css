@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(30, 38%, 92%);
+  min-height: 100vh;
+  font-family: "Montserrat", sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.btn {
+  background-color: hsl(158, 36%, 37%);
+}
+
+.btn:hover {
+  background-color: hsl(212, 21%, 14%);
+}
+
+.column {
+  background-image: url(images/image-product-desktop.jpg);
+  background-size: cover;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 600px) {
+  /* Extra small devices (phones, 600px and down) */
+  .column {
+    background-image: url(images/image-product-mobile.jpg);
+  }
+}
