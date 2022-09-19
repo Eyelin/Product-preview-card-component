@@ -25,8 +25,7 @@ This HTML & CSS-only challenge will be perfect for anyone starting to build resp
 
 ### Links
 
-<!-- - [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-wYl_yX5H93) -->
-
+- [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-flexbox-Mz6vCI9t9h)
 - [Live Site URL](https://eyelin.github.io/Product-preview-card-component/)
 
 ## My process
